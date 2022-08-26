@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "587022316160",
+    "project_id": "login-firebase-9f7f0",
+    "storage_bucket": "login-firebase-9f7f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587022316160:android:e9860d4958356dd402ac65",
+        "android_client_info": {
+          "package_name": "com.aftabmaner.googleloginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587022316160-agust02ei6oco1409ucq822q8v4rorgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzPtWNdUvSBPulWdDqUojShojA_5v6960"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587022316160-agust02ei6oco1409ucq822q8v4rorgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
